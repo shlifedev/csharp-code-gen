@@ -13,6 +13,7 @@
     generator.AddField("int", "userId2");
     generator.AddField("int", "userId3"); 
     generator.AddMethod("void", "GetUsers", "//code"); 
+    var code = generator.GenerateCode();
 ```
 
 ## Result
