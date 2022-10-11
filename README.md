@@ -1,8 +1,6 @@
-# CsharpSimpleCodeGenerator
-
- Very simple C# Code Generator. It is good to write a simple Model-like syntax.
- 
-
+# chsarp code gen
+  very simple code-gen for chsarp language.
+  
 ## Example
 
 ```cs
